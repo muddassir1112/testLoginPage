@@ -1,0 +1,51 @@
+body {
+  font-family: roboto;
+  background-image: linear-gradient(rgba(65, 112, 181, 255),rgba(127,75,173,255));
+}
+.container {
+  justify-content: center;
+  margin-left: 35%;
+  margin-top: 10%;
+  width: 55vh;
+  height: 55vh;
+  background-color: rgba(255, 255, 255, 255);
+  border-radius: 10px;
+}
+.container h1 {
+  text-align: center;
+  padding-top: 5%;
+}
+#a {
+  padding-left: 15%;
+  font-size: larger;
+  text-decoration: none;
+  color: rgba(169, 169, 169, 255);
+}
+
+.box {
+  padding-top: 10%;
+  text-align: center;
+}
+#user {
+  font-size: larger;
+  border-style: none;
+  border-bottom: 2px solid rgba(169, 169, 169, 255);
+}
+#pass {
+  font-size: larger;
+  border-style: none;
+  border-bottom: 2px solid rgba(169, 169, 169, 255);
+}
+button {
+  margin-left: 15%;
+  border-style: none;
+  background-color: rgba(38, 145, 217, 255);
+  color: white;
+  width: 70%;
+  border-radius: 20px;
+  font-size: larger;
+  height: 6vh;
+}
+.bottom {
+  text-align: center;
+}
